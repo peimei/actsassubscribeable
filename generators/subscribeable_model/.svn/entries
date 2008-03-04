@@ -1,0 +1,43 @@
+8
+
+dir
+4
+svn+ssh://james@railsjitsu.com/var/svn/repos/acts_as_subscribeable/trunk/acts_as_subscribeable/generators/subscribeable_model
+svn+ssh://james@railsjitsu.com/var/svn/repos/acts_as_subscribeable
+
+
+
+2007-12-02T09:45:03.938458Z
+1
+james
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+11a7a709-b8a4-4df7-8284-921e42f7db16
+
+subscribeable_model_generator.rb
+file
+
+
+
+
+2007-12-04T12:35:48.000000Z
+366762d66be2917f195f6eda099a90c2
+2007-12-02T09:45:03.938458Z
+1
+james
+
+templates
+dir
+
